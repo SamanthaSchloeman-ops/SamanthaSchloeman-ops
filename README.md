@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamanthaSchloeman-ops
 - 👀 I'm a sustainability nerd, data analyst, conservationist, avid gardener and beekeeper.  
 - 🌱 I’m currently focusing on learning about data viz and statistical analysis in R. My professional interests lie in environmental data analytics. 
-- 📫 [LinkedIn]([https://www.linkedin.com/in/samantha-schloeman/])
+- 📫 Find me on LinkedIn: https://www.linkedin.com/in/samantha-schloeman/
 - 😄 Pronouns: She/Her
 
 <!---
